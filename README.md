@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tuan-Anh Pham,
 - 👀 I’m interested in Machine Learning, Deep Learning
-- 🌱 I’m currently learning AI Researcher
+- 🌱 I’m currently learning as an AI Researcher
 - 💞️ I’m looking to collaborate on ICN PTIT Lab 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
