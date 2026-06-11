@@ -1,6 +1,6 @@
 ## 👋 Xin chào, I'm Phạm Tuấn Anh (Tuan-Anh)
 
-**AI Engineer @ FPT AI Center** | MSc in Data Science & AI  
+**AI Engineer @ FPT AI Center** | MSc in Information and Communication Technology  
 📍 Long Biên, Hà Nội, Vietnam
 
 ---
@@ -28,9 +28,8 @@ AI researcher and engineer at the intersection of **EdgeAI**, **Computer Vision*
 
 ### 🎓 Education
 
-- **MSc in Data Science & AI** — PTIT (2022-2024)
-- **MSc in Electrical Engineering (CV & Image Processing)** — National Taiwan University of Science and Technology (2020-2022) — GPA: 4.26/4.3
-- **B.Eng in ICT** — PTIT (2017-2022)
+- **MSc in Information and Communication Technology** — PTIT (2022-2024)
+- **B.Eng in Information and Communication Technology** — PTIT (2017-2022)
 
 ### 🛠️ Core Skills
 
