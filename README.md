@@ -7,9 +7,9 @@ AI Engineer @ FPT AI Center | MSc in Information and Communication Technology
 
 ### 🔬 About Me
 
-AI researcher and engineer at the intersection of Agentic AI, Agent Harness, and LLM OS. I specialize in optimizing and integrating business systems into AI agents and optimizing agentic workflows. I also build and upgrade my strong Agent OS including the best harness and uniform coding agentic workflow SDLC. I used to specialize in optimizing and deploying SLM/VLM/ASR/TTS models on resource-constrained edge devices — from smart vehicles to IoT sensors. Published in IEEE Access, RIVF, PIMRC, and more.
+AI researcher and engineer working at the intersection of Agentic AI, Agent Harness, and LLM OS. I specialize in integrating business systems with AI agents and building optimized agentic workflows. I also build and maintain my own Agent OS — a unified harness with a standardized agentic coding workflow (SDLC). I previously specialized in optimizing and deploying SLM/VLM/ASR/TTS models on resource-constrained edge devices — from smart vehicles to IoT sensors. Published in IEEE Access, RIVF, PIMRC, and more.
 
-- 🧠 Currently: AI Engineer @ FPT Software AI Center — Now working on Agentic AI (previously EdgeAI, LLM/LVM deployment on smart vehicles, DMS systems)
+- 🧠 Currently building Agentic AI systems @ FPT Software AI Center (previously: EdgeAI, LLM/LVM deployment on smart vehicles, DMS systems)
 - 🔭 Research: LLMs, Foundation Models
 - 🤝 Open to collaborate on: Agentic AI, EdgeAI, Optimization
 
