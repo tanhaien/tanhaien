@@ -9,7 +9,7 @@ AI Engineer @ FPT AI Center | MSc in Information and Communication Technology
 
 AI researcher and engineer working at the intersection of Agentic AI, Agent Harness, and LLM OS. I specialize in integrating business systems with AI agents and building optimized agentic workflows. I also build and maintain my own Agent OS — a unified harness with a standardized agentic coding workflow (SDLC). I previously specialized in optimizing and deploying SLM/VLM/ASR/TTS models on resource-constrained edge devices — from smart vehicles to IoT sensors. Published in IEEE Access, RIVF, PIMRC, and more.
 
-- 🧠 Currently building Agentic AI systems @ FPT Software AI Center (previously: EdgeAI, LLM/LVM deployment on smart vehicles, DMS systems)
+- 🧠 AI Engineer @ FPT Software AI Center + Mimosa Technology Ltd (Agentic AI, Agent Harness, LLM OS)
 - 🔭 Research: LLMs, Foundation Models
 - 🤝 Open to collaborate on: Agentic AI, EdgeAI, Optimization
 
@@ -17,13 +17,17 @@ AI researcher and engineer working at the intersection of Agentic AI, Agent Harn
 
 ### 💼 Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| Associate AI Engineer | FPT Software AI Center (EdgeAI Team) | Sep 2024 - Present |
-| AI Engineer | Physcode Ltd. | Apr 2024 - Aug 2024 |
-| R&D Engineer | OSB Group | Oct 2023 - Apr 2024 |
-| Research Assistant | PTIT / USN Norway | 2020 - 2022 |
-| AI Intern | VCCorp Group | 2021 |
+| Role | Company | Type | Period |
+|------|---------|------|--------|
+| AI Engineer | FPT Software AI Center | Full-time | Sep 2024 - Present |
+| Artificial Intelligence Engineer | Mimosa Technology Ltd | Contract | Jun 2025 - Present |
+| Artificial Intelligence Engineer | UDATA | Contract | Mar 2025 - Feb 2026 |
+| AI Researcher Collaborator | PTIT | Freelance | Jan 2019 - Aug 2025 |
+| AI Engineer | PhysCode | Full-time | Jul 2024 - Sep 2024 |
+| Research And Development Engineer | OSB Investment and Technology JSC | Full-time | Jan 2023 - Dec 2023 |
+| AI Research Collaborator | University of South-Eastern Norway | Part-time | Jan 2022 - Jun 2022 |
+| AI Engineer | VCCorp Corporation | Internship | Apr 2021 - Oct 2021 |
+| AI Engineer | Tinasoft Vietnam | Internship | Jun 2019 - Dec 2019 |
 
 ### 🎓 Education
 
