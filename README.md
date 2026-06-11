@@ -50,5 +50,5 @@ AI researcher and engineer working at the intersection of Agentic AI, Agent Harn
 - 📧 tuananh.ai.en@gmail.com
 - 📞 0963334684
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=lc6mGQkAAAAJ&hl=en)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanh-aiden)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuan-anh-pham-852bb529b/)
 - 📝 [Portfolio](https://github.com/tanhaien/tuananh-portfolio)
