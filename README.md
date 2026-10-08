@@ -49,6 +49,10 @@ AI researcher and engineer working at the intersection of Agentic AI, Agent Harn
 - Lightweight DCNN for Plant Disease — Mendel Journal (Q2, SCIE), 2022
 - Deep-Learning MIMO Detector — IEEE PIMRC / NICS, 2022
 
+### 🔧 Open-source contributions
+
+- **OpenAI Codex (Linux sandbox):** documented an Ubuntu AppArmor/Bubblewrap failure with reproducible commands and kernel audit evidence in [openai/codex#29908](https://github.com/openai/codex/issues/29908#issuecomment-6056871870).
+
 ### 📫 Contact
 
 - 📧 tuananh.ai.en@gmail.com
