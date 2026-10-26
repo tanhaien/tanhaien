@@ -53,6 +53,17 @@ AI researcher and engineer working at the intersection of Agentic AI, Agent Harn
 
 - **OpenAI Codex (Linux sandbox):** documented an Ubuntu AppArmor/Bubblewrap failure with reproducible commands and kernel audit evidence in [openai/codex#29908](https://github.com/openai/codex/issues/29908#issuecomment-6056871870).
 
+### 📦 Developer Toolkits & Agent Blueprints
+
+Production-tested playbooks, harnesses, and prompt suites built from daily engineering:
+
+| Toolkit | Description | Link |
+|---|---|:---:|
+| **AI Coding Agent Workflows** | 54 battle-tested prompts for Claude Code, Codex, and Cursor that force agents to verify, plan, and eliminate hallucinations. | [Get Pack ($19)](https://tuananhai.gumroad.com/l/ai-coding-agent-workflows) |
+| **Telegram Commerce Bot Kit** | Full-stack Python bot kit with automated payment confirmation (VietQR/Stripe), webhook handlers, and instant digital delivery. | [Get Kit ($29)](https://tuananhai.gumroad.com/l/telegram-commerce-bot-kit) |
+| **Edge AI Deployment Playbook** | End-to-end guide and code for quantizing and deploying SLM/VLM/TTS models on edge devices (Jetson, Raspberry Pi) with TensorRT & ONNX. | [Get Playbook ($19)](https://tuananhai.gumroad.com/l/edge-ai-deployment-playbook) |
+| **Hermes Agent Power Bundle** | Multi-agent autonomous harness setups, MCP integrations, and verified execution pipelines. | [Get Bundle ($24)](https://tuananhai.gumroad.com/l/hermes-agent-power-bundle) |
+
 ### 📫 Contact
 
 - 📧 tuananh.ai.en@gmail.com
